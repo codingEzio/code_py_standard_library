@@ -5,8 +5,11 @@
 
 ## Ongoing librarys 
 
-- Data Types 
-
-    | 模块 | PyMOTW | 官方文檔 | 源碼實現 |  
-    | --- | :---: | --- | --- | 
-    | enum | 🤪 |  |  | 
+- Status
+    
+    | 類別 | 模块 | PyMOTW | 官方文檔 | 源碼實現 |  
+    | ---: | :--- | :---: | :---: | :---: | 
+    | Data Types  | enum | 🤪 |  |  |
+    | Generic Operating System Services | platform | \ | 🤪 | \ |
+   
+    
