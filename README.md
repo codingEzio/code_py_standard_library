@@ -7,9 +7,9 @@
 
 - Status
     
-    | 類別 | 模块 | PyMOTW | 官方文檔 | 源碼實現 |  
-    | ---: | :--- | :---: | :---: | :---: | 
-    | Data Types  | enum | 🤪 |  |  |
-    | Generic Operating System Services | platform | \ | 🤪 | \ |
-   
-    
+    | 類別 | 模块 | 官方文檔 | PyMOTW | 源碼 |  
+    | ---: | :---: | :---: | :---: | :---: | 
+    | Built-in Functions | \ | 🤪 | \ | \ | 
+    | Built-in Types | \ | \ |  |  |
+    | Data Types  | enum |  | 🤪 |  |
+    | Generic Operating System Services | platform | 🤪 | \ | \ |
