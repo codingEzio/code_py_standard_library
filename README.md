@@ -21,6 +21,7 @@
 | platform | 🤪 | \ | \ |
 | ipaddress |  |  |  | 
 | hashlib |  | \ | \ | 
+| statistics | 🤪 |  |  |  
     
 ## HOWTOs
 
