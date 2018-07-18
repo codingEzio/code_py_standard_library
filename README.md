@@ -22,6 +22,7 @@
 | ipaddress |  |  |  | 
 | hashlib |  | \ | \ | 
 | statistics | 🤪 |  |  |  
+| hashlib | 🤪 |  |  |  
     
 ## HOWTOs
 
