@@ -23,7 +23,10 @@
 | hashlib |  | \ | \ | 
 | statistics | 🤪 |  |  |  
 | hashlib | 🤪 |  |  |  
+| hmac | 🤪 |  |  |  
+| secrets | 🤪 |  |  |  
     
 ## HOWTOs
 
 - [x] [An introduction to the ipaddress module](https://docs.python.org/3/howto/ipaddress.html)
+- [ ] [Descriptor HowTo Guide](https://docs.python.org/3/howto/descriptor.html)
