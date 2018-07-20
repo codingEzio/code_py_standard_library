@@ -1,7 +1,12 @@
 ## Notice 
-- 多數資源來自 Python [官方文檔](https://docs.python.org/3/library/) 
-    > 以及 [Python 3 Module of the Week](https://pymotw.com/3/)
-- 以下 *HOWTOs* 的代碼 將被整合在 相關模塊的文件夾內
+- 此为学习笔记 之 [*Python Standard Library*](https://docs.python.org/3/library/) 以及 [*PyMOTW3*](https://pymotw.com/3/)
+- 關於命名 
+    
+    | Type | How | 
+    | :---- | :---- | 
+    | Folder | 按照 [Standard Library](https://docs.python.org/3/library/index.html) 的分類來 | 
+    | module_XXX | 模块名_來源 | 
+    | module_XXX_p[NUM] | 模块名_來源_分块 | 
 
 <hr>
 
@@ -15,7 +20,7 @@
 ## Ongoing librarys 
 
 | 模块 | 標準庫 | PyMOTW | 源碼 | 
-| :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | string | 🤪 |  | \ |
 | enum |  | 🤪 |  |
 | platform | 🤪 | \ | \ |
