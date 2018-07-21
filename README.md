@@ -7,7 +7,16 @@
     | Folder | 按照 [Standard Library](https://docs.python.org/3/library/index.html) 的分類來 | 
     | module_XXX | 模块名_來源 | 
     | module_XXX_p[NUM] | 模块名_來源_分块 | 
-
+    
+- 完成狀態
+    
+    | Type | Meaning | 
+    | :--- | :---| 
+    | Emoji | 已完成 |
+    | 空 | 正在进行 | 
+    | /  | 不再进行 | 
+    | \ | 无对应资源 | 
+ 
 <hr>
 
 ## Built-in 
@@ -21,15 +30,17 @@
 
 | 模块 | 標準庫 | PyMOTW | 源碼 | 
 | :---: | :---: | :---: | :---: |
-| string | 🤪 |  | \ |
+| string | 🤪 |  | / |
 | enum |  | 🤪 |  |
-| platform | 🤪 | \ | \ |
+| platform | 🤪 | / | / |
 | ipaddress |  |  |  | 
-| hashlib |  | \ | \ | 
+| hashlib |  | / | / | 
 | statistics | 🤪 |  |  |  
 | hashlib | 🤪 |  |  |  
 | hmac | 🤪 |  |  |  
 | secrets | 🤪 |  |  |  
+| readline |  |  |  | 
+| rlcompleter | 🤪 | \ |  |
     
 ## HOWTOs
 
