@@ -14,6 +14,9 @@
 
 | 模块 | 標準庫 | PyMOTW | 源碼 | 
 | :---: | :---: | :---: | :---: |
+| uuid | 🤪 |  |  | 
+| mmap |  |  |  | 
+| subprocess |  | 🤪 |  | 
 | itertools |  | 🤪 |  |
 | rlcompleter | 🤪 | \ |  |
 | readline |  |  |  | 
