@@ -1,5 +1,5 @@
 ## Notice 
-- 此为学习笔记 之 [*Python Standard Library*](https://docs.python.org/3/library/) 以及 [*PyMOTW3*](https://pymotw.com/3/)
+- 学习笔记 之 [*Python Standard Library*](https://docs.python.org/3/library/) 以及 [*PyMOTW3*](https://pymotw.com/3/)
 
 <hr>
 
@@ -24,14 +24,15 @@
 | secrets | 🤪 |  |  |  
 | hmac | 🤪 |  |  |  
 | hashlib | 🤪 |  |  |  
-| ipaddress |  |  |  | 
-| platform | 🤪 | / | / |
+| ipaddress |  | 🤪 |  | 
 | enum |  | 🤪 |  |
+| platform | 🤪 | / | / |
 | string | 🤪 |  | / |
     
 ## HOWTOs
 
 - [x] [An introduction to the ipaddress module](https://docs.python.org/3/howto/ipaddress.html)
+- [x] [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html)
 - [ ] [Descriptor HowTo Guide](https://docs.python.org/3/howto/descriptor.html)
 
 
