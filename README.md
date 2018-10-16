@@ -1,19 +1,13 @@
-## Notice 
-- 学习笔记 之 [*Python Standard Library*](https://docs.python.org/3/library/) 以及 [*PyMOTW3*](https://pymotw.com/3/)
+## Note
+- 学习笔记 之 [*Standard Library*](https://docs.python.org/3/library/) 以及 [*PyMOTW*](https://pymotw.com/3/)
 
-<hr>
-
-## Built-in 
-
-| Status | Item | 
-| :---: | :--- | 
-| 🤪 | Built-in Functions |
-| | Built-in Types | 
 
 ## Ongoing librarys 
 
 | 模块 | 標準庫 | PyMOTW | 源碼 | 
 | :---: | :---: | :---: | :---: |
+| os.path | 🤪 |  |  | 
+| pathlib | 🤪 |  |  | 
 | dis |  | 🤪 |  | 
 | uuid | 🤪 |  |  | 
 | mmap |  |  |  | 
@@ -36,6 +30,12 @@
 - [x] [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html)
 - [ ] [Descriptor HowTo Guide](https://docs.python.org/3/howto/descriptor.html)
 
+## Built-in 
+
+| Status | Item | 
+| :---: | :--- | 
+| 🤪 | Built-in Functions |
+| | Built-in Types | 
 
 ## Other
 
