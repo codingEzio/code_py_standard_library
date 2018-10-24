@@ -6,12 +6,13 @@
 
 | 模块 | 標準庫 | PyMOTW | 源碼 | 
 | :---: | :---: | :---: | :---: |
+| signal |  |  |  | 
+| subprocess |  |  |  | 
 | os.path | 🤪 |  |  | 
 | pathlib | 🤪 |  |  | 
 | dis |  | 🤪 |  | 
 | uuid | 🤪 |  |  | 
 | mmap |  |  |  | 
-| subprocess |  | 🤪 |  | 
 | itertools |  | 🤪 |  |
 | rlcompleter | 🤪 | \ |  |
 | readline |  |  |  | 
