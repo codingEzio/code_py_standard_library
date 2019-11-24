@@ -1,6 +1,7 @@
 
 # my own 
 ._*
+.idea
 .vscode
 .DS_Store
 .cache
